@@ -27,7 +27,6 @@ wheels/
 transactions.csv
 transactions_predicted.csv
 arion.db
-fraud_model_pipeline.pkl
 
 # IDE
 .vscode/
